@@ -70,11 +70,21 @@ Al finalizar el proceso, los datasets resultantes se guardan en base de datos en
 ## ORQUESTACIÓN
 Mediante la implementación con AIRFLOW, se cuenta con dos dags/pipelines que orquestan la ejecución de los notebooks de etl , uno para cada notebook de COLAB.
 
-## CONCLUSIONES 
+## RESULTADOS 
 ### Características demográficas:
 + La edad media de las pacientes es de aproximadamente  54 años, con un rango de 30 a 69 años
 + La mayoría de las pacientes registradas son de raza blanca, según los valores únicos mostrados
-+ Existen diversos estados civiles en la muestra: casadas, divorciadas, solteras, viudas y separadas
++ Existen diversos estados civiles en la muestra: casadas, divorciadas, solteras, viudas y separadas  
+
+| Grupo | Rango Edad | Casos | Porcentaje |
+| --- | --- | --- | --- |
+| 1 | menor de 40 | 17 | 7.17 |
+| 2 | 40-49  | 40 | 16.9 |
+| 3 | 50-59 | 55 | 23.2 |
+| 4 | 60-69  | 69 | 29.1 |
+| 5 | 70-79 | 34 | 14.3 |
+| 6 | 80 o más | 22 | 9.28 |
+
 ### Características clínicas:
 + El tamaño medio del tumor es de 30.47 mm, con un rango amplio (1 mm a 140 mm)
 + La mayoría de los casos presentan receptores de estrógeno y progesterona positivos
