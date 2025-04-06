@@ -23,18 +23,8 @@ La aplicación puede consultarse en: https://uao-my.sharepoint.com/:u:/g/persona
 ## DIAGRAMA EN BLOQUES
 
 ## DIAGRAMA DE FLUJO
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Flujo%20ETL-FLUJO.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Flujo%20ETL-FLUJO.jpg">
-  <img alt="Muestra el Diagrama de Flujo del Proyecto" src="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Flujo%20ETL-FLUJO.jpg">
-</picture>
 
 ## ESTRUCTURA DEL REPOSITORIO
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Flujo%20ETL-TREE.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Flujo%20ETL-TREE.jpg">
-  <img alt="Muestra la Esstructura de Carpetas del Repositorio" src="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Flujo%20ETL-TREE.jpg">
-</picture>
 
 ## FUENTES
 Se cuenta con un dataset principal que resalta resultados propios de Colombia y otro dataset complementario además de fuentes de información consolidadas, que permitirán obtener el contexto internacional sobre el que se deberá comparar el dataset principal. 
@@ -57,15 +47,6 @@ En caso de requerir contraseña, puede acceder con los datos:
 
 ## ANÁLISIS EXPLORATORIO DE DATOS (EDA)  
 Antes de la transformación, se realiza una exploración detallada, donde se procede a la visualización de los primeros registros para entender la estructura, se analizan de dimensiones (4024 filas y 16 columnas), se evalúa la información sobre tipos de datos (5 columnas numéricas y 11 categóricas) y se obtiene un análisis estadístico de variables numéricas (media, desviación estándar, mínimos, máximos) con la identificación de valores únicos en variables categóricas.
-
-### Estadísticas de edad:  
-El análisis de la distribución de la edad en la población estudiada revela una media de 59.95 años y una mediana de 60 años, lo que sugiere una distribución aproximadamente simétrica. La desviación estándar de 13.83 años indica una variabilidad moderada en los datos, mientras que el rango de edades, comprendido entre 23 y 92 años, muestra una amplitud de 69 años. La similitud entre la media y la mediana sugiere que la distribución no presenta una asimetría significativa, aunque podrían existir ligeras desviaciones.  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Imagen1.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Imagen1.png">
-  <img alt="Muestra el Análisis de Edades de las Pacientes" src="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Imagen1.png">
-</picture>
 
 ## LIMPIEZA DE DATOS
 
