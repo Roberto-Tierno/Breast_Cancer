@@ -119,6 +119,7 @@ Se observan, como muestras, dos capturas de pantalla de los dashboards en Power 
 <hr>
 <img decoding="async" src="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Dash USA.png" alt="Dashboard de Estados Unidos" width="100%">
 <hr>
+
 ## ORQUESTACIÓN
 Mediante la implementación con AIRFLOW, se cuenta con dos dags/pipelines que orquestan la ejecución de los notebooks de etl , uno para cada notebook de COLAB.
 
