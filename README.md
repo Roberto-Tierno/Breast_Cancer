@@ -24,9 +24,10 @@ La aplicación puede consultarse en: https://uao-my.sharepoint.com/:u:/g/persona
 
 ## DIAGRAMA DE FLUJO
 <picture>
- <img alt="Diagrama de Flujo" src="img/">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Flujo%20ETL-FLUJO.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Flujo%20ETL-FLUJO.jpg">
+  <img alt="Muestra el Diagrama de Flujo del Proyecto" src="https://github.com/Roberto-Tierno/Breast_Cancer/blob/main/img/Flujo%20ETL-FLUJO.jpg">
 </picture>
-
 ## ESTRUCTURA DEL REPOSITORIO
 
 ## FUENTES
