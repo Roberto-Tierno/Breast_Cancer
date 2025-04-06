@@ -23,6 +23,9 @@ La aplicación puede consultarse en: https://uao-my.sharepoint.com/:u:/g/persona
 ## DIAGRAMA EN BLOQUES
 
 ## DIAGRAMA DE FLUJO
+<picture>
+ <img alt="Diagrama de Flujo" src="img/">
+</picture>
 
 ## ESTRUCTURA DEL REPOSITORIO
 
